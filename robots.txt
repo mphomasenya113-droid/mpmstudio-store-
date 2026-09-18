@@ -1,0 +1,45 @@
+# robots.txt for MPM Studio store (static preview)
+# Replace mpm-studio-4.myshopify.com with the live store origin before go-live.
+
+User-agent: *
+Allow: /
+Disallow: /checkout
+Disallow: /downloads
+
+User-agent: GPTBot
+Allow: /aieo/llm.txt
+Allow: /aieo/llm-full.txt
+Allow: /blog/
+Allow: /product/
+Disallow: /checkout
+Disallow: /downloads
+
+User-agent: PerplexityBot
+Allow: /aieo/llm.txt
+Allow: /aieo/llm-full.txt
+Allow: /blog/
+Allow: /product/
+Disallow: /checkout
+Disallow: /downloads
+
+User-agent: ClaudeBot
+Allow: /aieo/llm.txt
+Allow: /aieo/llm-full.txt
+Allow: /blog/
+Allow: /product/
+Disallow: /checkout
+Disallow: /downloads
+
+User-agent: Google-Extended
+Allow: /aieo/llm.txt
+Allow: /aieo/llm-full.txt
+Allow: /blog/
+Allow: /product/
+Disallow: /checkout
+Disallow: /downloads
+
+Sitemap: https://mpm-studio-4.myshopify.com/sitemap.xml
+
+# Note: robots.txt has no standard directive that declares an arbitrary
+# "LLM file". The Allow rules make these files crawlable. Publish them at
+# the exact URLs above and link them from the footer as well.

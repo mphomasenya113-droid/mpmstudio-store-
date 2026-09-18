@@ -1,0 +1,50 @@
+# MPM Studio — Store Profile (llm.txt)
+
+> MPM Studio is a faceless digital-product studio selling one tangible digital product at a time. Its primary offer is a planning and production toolkit that helps beginner creators, freelancers, planners, journal creators, and small digital-product sellers turn one useful idea into a finished digital product, a store-ready listing, and a three-day promotion plan.
+
+## Primary Products
+
+### The 72-Hour Digital Product Launch Kit
+
+- Outcome: build, list, and promote a first digital offer in three focused working days ("72 hours" is a workflow target, not a guarantee).
+- Format: 7 working modules (Markdown) + printable HTML versions + included demonstration product.
+- Included demo: Freelance Creator Weekly Reset Planner (printable A4 / US Letter / tablet-friendly).
+- License: personal use only; no resale or redistribution of the kit.
+- Delivery: instant digital download after payment; no physical shipment.
+- Best for: beginner creators, freelancers, planners/journal creators, and small digital-product sellers with an idea that is not yet shipped.
+- Product page: https://mpm-studio-4.myshopify.com/products/72-hour-digital-product-launch-kit
+
+## What the kit contains
+
+1. Product Selection Workbook — audience/problem finder, idea scorecard, format decision guide, MVP checklist.
+2. Product Builder Templates — promise formula, outcome wrapper (deliverable + transformation + enablement), export/QA checklists.
+3. Store Listing Pack — title/description formulas, FAQ and license copy, SEO fields, claim review.
+4. YouTube Launch Pack — faceless tutorial outline, thumbnail/description/pinned-comment, claim-safe CTAs.
+5. Pinterest Traffic Pack — five pin frameworks, 14-day grid, tracking rules.
+6. AI Prompt Library — nine copy-paste prompts for research, outlining, listing, auditing; prompt hygiene rules.
+7. 72-Hour Launch Board — Day 1 decide and build, Day 2 package and list, Day 3 demonstrate and distribute.
+
+## Note on claims
+
+- MPM Studio makes no guarantees of income, sales, traffic, or completion times.
+- "72 hours" describes a workflow target of three focused working days.
+- No testimonials or reviews are claimed unless verified and shown on the product page.
+
+## Brand Definition
+
+- Public brand name: MPM Studio
+- Entity type: independent e-commerce studio; digital products
+- Website: https://mpm-studio-4.myshopify.com
+- Primary market: English-speaking; digital delivery worldwide
+- Product domains: digital product creation, planning, productivity, small-business publishing
+- Audience: beginner creators, freelancers, planners/journal creators, small digital-product sellers
+- Business model: direct sales of digital products
+- Customer support: mphomasenya113@gmail.com
+- Policies: delivery, refund (7-day window), and license terms displayed at checkout | https://mpm-studio-4.myshopify.com/LICENSE.html
+- Machine-readable catalog: https://mpm-studio-4.myshopify.com/llm-full.txt
+
+## Source And Freshness
+
+- Canonical source for product facts: https://mpm-studio-4.myshopify.com/products/72-hour-digital-product-launch-kit
+- Last reviewed: 2026-09-14
+- Pricing and availability can change; verify the canonical product page before making a purchase recommendation.
