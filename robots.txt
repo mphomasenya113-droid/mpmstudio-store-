@@ -1,5 +1,5 @@
-# robots.txt for MPM Studio store (static preview)
-# Replace mpm-studio-4.myshopify.com with the live store origin before go-live.
+# robots.txt for MPM Studio store
+# Canonical origin (2026-09-21): https://mphomasenya113-droid.github.io/mpmstudio-store-/
 
 User-agent: *
 Allow: /
@@ -38,7 +38,7 @@ Allow: /product/
 Disallow: /checkout
 Disallow: /downloads
 
-Sitemap: https://mpm-studio-4.myshopify.com/sitemap.xml
+Sitemap: https://mphomasenya113-droid.github.io/mpmstudio-store-/sitemap.xml
 
 # Note: robots.txt has no standard directive that declares an arbitrary
 # "LLM file". The Allow rules make these files crawlable. Publish them at

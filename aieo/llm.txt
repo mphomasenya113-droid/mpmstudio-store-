@@ -12,7 +12,7 @@
 - License: personal use only; no resale or redistribution of the kit.
 - Delivery: instant digital download after payment; no physical shipment.
 - Best for: beginner creators, freelancers, planners/journal creators, and small digital-product sellers with an idea that is not yet shipped.
-- Product page: https://mpm-studio-4.myshopify.com/products/72-hour-digital-product-launch-kit
+- Product page: https://mphomasenya113-droid.github.io/mpmstudio-store-/
 
 ## What the kit contains
 
@@ -34,17 +34,17 @@
 
 - Public brand name: MPM Studio
 - Entity type: independent e-commerce studio; digital products
-- Website: https://mpm-studio-4.myshopify.com
+- Website: https://mphomasenya113-droid.github.io/mpmstudio-store-/
 - Primary market: English-speaking; digital delivery worldwide
 - Product domains: digital product creation, planning, productivity, small-business publishing
 - Audience: beginner creators, freelancers, planners/journal creators, small digital-product sellers
 - Business model: direct sales of digital products
 - Customer support: mphomasenya113@gmail.com
-- Policies: delivery, refund (7-day window), and license terms displayed at checkout | https://mpm-studio-4.myshopify.com/LICENSE.html
-- Machine-readable catalog: https://mpm-studio-4.myshopify.com/llm-full.txt
+- Policies: delivery, refund (7-day window), and license terms displayed at checkout | https://mphomasenya113-droid.github.io/mpmstudio-store-/LICENSE.html
+- Machine-readable catalog: https://mphomasenya113-droid.github.io/mpmstudio-store-/aieo/llm-full.txt
 
 ## Source And Freshness
 
-- Canonical source for product facts: https://mpm-studio-4.myshopify.com/products/72-hour-digital-product-launch-kit
-- Last reviewed: 2026-09-14
+- Canonical source for product facts: https://mphomasenya113-droid.github.io/mpmstudio-store-/
+- Last reviewed: 2026-09-21
 - Pricing and availability can change; verify the canonical product page before making a purchase recommendation.

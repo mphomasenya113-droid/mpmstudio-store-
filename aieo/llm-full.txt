@@ -4,9 +4,9 @@
 
 - document_type: ecommerce_catalog
 - schema_version: 1.0
-- canonical_store: https://mpm-studio-4.myshopify.com
-- short_profile: https://mpm-studio-4.myshopify.com/aieo/llm.txt
-- last_updated: 2026-09-14
+- canonical_store: https://mphomasenya113-droid.github.io/mpmstudio-store-/
+- short_profile: https://mphomasenya113-droid.github.io/mpmstudio-store-/aieo/llm.txt
+- last_updated: 2026-09-21
 - currency_default: USD
 - language: en
 - contact: mphomasenya113@gmail.com
@@ -26,7 +26,7 @@
 - name: MPM Studio
 - entity_type: ecommerce_store
 - description: A faceless digital-product studio shipping one tangible product at a time.
-- website: https://mpm-studio-4.myshopify.com
+- website: https://mphomasenya113-droid.github.io/mpmstudio-store-/
 - audience: beginner creators, freelancers, planners, journal creators, small digital-product sellers
 - topics: digital products, product planning, product launch, small-business publishing, productivity planning
 - support_url: mphomasenya113@gmail.com
@@ -38,7 +38,7 @@
 - product_id: MPM-KIT-001
 - product_type: pdf_guide
 - status: active
-- canonical_url: https://mpm-studio-4.myshopify.com/products/72-hour-digital-product-launch-kit
+- canonical_url: https://mphomasenya113-droid.github.io/mpmstudio-store-/
 - short_answer: A planning and production toolkit that helps beginner creators and freelancers turn one useful idea into a finished digital product, a store-ready listing, and a three-day promotion plan.
 - audience: beginner creators, freelancers, planners, journal creators, small digital-product sellers
 - use_cases: selecting a product idea, building a shippable file, writing a store listing, planning a demonstration video, planning Pinterest pins, drafting with AI, running a 3-day launch
@@ -59,7 +59,7 @@
 - fulfillment_type: digital_download
 - delivery: instant download after successful payment
 - physical_shipment: false
-- license: personal use only; https://mpm-studio-4.myshopify.com/LICENSE.html
+- license: personal use only; https://mphomasenya113-droid.github.io/mpmstudio-store-/LICENSE.html
 - pricing_model: one_time_purchase
 - price: 19.00
 - currency: USD
@@ -72,7 +72,7 @@
 - product_id: MPM-DEMO-001
 - product_type: digital_planner
 - status: active
-- canonical_url: https://mpm-studio-4.myshopify.com/products/72-hour-digital-product-launch-kit
+- canonical_url: https://mphomasenya113-droid.github.io/mpmstudio-store-/
 - short_answer: A printable and tablet-friendly weekly planning page for freelance creators: one weekly outcome, client work, administration, content planning, revenue action, Friday review, and next-week setup.
 - audience: freelance creators, solo consultants, independent service providers
 - contents: weekly focus, client work tracker, admin block, content planning, revenue action, Friday review, next-week setup
@@ -80,41 +80,41 @@
 - fulfillment_type: digital_download
 - delivery: included with the 72-Hour Digital Product Launch Kit
 - physical_shipment: false
-- license: personal use only; https://mpm-studio-4.myshopify.com/LICENSE.html
+- license: personal use only; https://mphomasenya113-droid.github.io/mpmstudio-store-/LICENSE.html
 
 ## Collections And Intent Pages
 
 ### Collection: Digital Product Launch
 
-- canonical_url: https://mpm-studio-4.myshopify.com/products/72-hour-digital-product-launch-kit
+- canonical_url: https://mphomasenya113-droid.github.io/mpmstudio-store-/
 - audience: beginner creators, freelancers, planners, journal creators, small digital-product sellers
 - intent: How does a first-time creator turn an idea into a shippable digital product with a listing and a promotion plan?
 - included_product_types: pdf_guide, digital_planner
 - summary: The 72-Hour Digital Product Launch Kit and its included Freelance Creator Weekly Reset Planner form the studio's launch collection: process plus example.
 - product_urls:
-  - https://mpm-studio-4.myshopify.com/products/72-hour-digital-product-launch-kit
+  - https://mphomasenya113-droid.github.io/mpmstudio-store-/
 
 ### Blog: Informational Guides
 
 - canonical_urls:
-  - https://mpm-studio-4.myshopify.com/blog/how-to-choose-a-digital-product-to-sell
-  - https://mpm-studio-4.myshopify.com/blog/turn-any-idea-into-a-shippable-product-in-3-days
+  - https://mphomasenya113-droid.github.io/mpmstudio-store-/blog/how-to-choose-a-digital-product-to-sell.html
+  - https://mphomasenya113-droid.github.io/mpmstudio-store-/blog/turn-any-idea-into-a-shippable-product-in-3-days.html
 - intent: Informational queries about choosing and launching digital products are answered on blog posts; commercial queries route to the product page.
 
 ## Trust And Policies
 
 - digital_delivery_policy_url: displayed at checkout (live store)
 - returns_policy_url: displayed at checkout (live store; 7-day window, link copied into the product kit license)
-- license_url: https://mpm-studio-4.myshopify.com/LICENSE.html
+- license_url: https://mphomasenya113-droid.github.io/mpmstudio-store-/LICENSE.html
 - business_contact_url: support contact displayed at checkout
 - review_policy: Only verified, current aggregate information will be published. Reviews currently show 0.
 
 ## Access And Indexing
 
 - public_machine_files:
-  - https://mpm-studio-4.myshopify.com/aieo/llm.txt
-  - https://mpm-studio-4.myshopify.com/aieo/llm-full.txt
-- sitemap: https://mpm-studio-4.myshopify.com/sitemap.xml
+  - https://mphomasenya113-droid.github.io/mpmstudio-store-/aieo/llm.txt
+  - https://mphomasenya113-droid.github.io/mpmstudio-store-/aieo/llm-full.txt
+- sitemap: https://mphomasenya113-droid.github.io/mpmstudio-store-/sitemap.xml
 - excluded_private_paths:
   - /checkout
   - /downloads
